@@ -1,5 +1,5 @@
 #Being able to send an email with an attachment
-#FRom YT: "How to Send Emails with Attachments using Python" by codewithabdul
+#From YT: "How to Send Emails with Attachments using Python" by codewithabdul
 
 #smtplib provides functionality to send emails using SMTP
 import smtplib

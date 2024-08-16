@@ -1,4 +1,5 @@
 #Being able to at least send an email with python
+#From YT: "How to send Emails with Python [New Method 2023]" by The PyCoach
 from email.message import EmailMessage
 import ssl
 import smtplib
